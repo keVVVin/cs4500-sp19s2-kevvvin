@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Wed Jan 16 15:29:12 EST 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-585a-80d1-00000b35e560 
-on database directory memory:/Users/KEVIN/Documents/Northeastern University/2019 Spring/CS4500 Software Development/testdb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Wed Jan 23 17:46:09 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-7ce4-649a-00000b3514a0 
+on database directory memory:/Users/KEVIN/Desktop/cs4500-sp19s2-kevvvin/testdb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
 Loaded from file:/Users/KEVIN/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_101-b13
-user.dir=/Users/KEVIN/Documents/Northeastern University/2019 Spring/CS4500 Software Development
+user.dir=/Users/KEVIN/Desktop/cs4500-sp19s2-kevvvin
 os.name=Mac OS X
 os.arch=x86_64
 os.version=10.14.2
